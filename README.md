@@ -1,3 +1,3 @@
 # dbos
 
-An operating system optimized for databases, which will run a single process, a databases, all written in Rust.
+An operating system optimized for databases to take advantage or modern tech and hardware optimizations, which runs a single process, a databases, all written in Rust.
