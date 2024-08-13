@@ -5,9 +5,11 @@ This is an operating system optimized for hosting a database system, taking adva
 Everything will be written in Rust to ensure performance, safety and reliability.
 
 # High level components
-- operating system - very thin layer specialized for the database workload
+- hardware abstraction - very thin layer
+- multitasking - handling concurrent tasks
+- memory management - optimized for the specific database workload
+- file system - specialized for the specific database workload
 - networking - simplified networking stack with the minimum required features
-- file system - specialized for the database workload
 - database
 - monitoring - metrics, logs, etc.
 - security
