@@ -15,5 +15,7 @@ Everything will be written in Rust to ensure performance, safety and reliability
 - security
 - administration - updates, backups, etc.
 
+# Wiki
+
 [Wiki](https://github.com/radumarias/dbos/wiki)
 
