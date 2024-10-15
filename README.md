@@ -19,3 +19,6 @@ Everything will be written in Rust to ensure performance, safety and reliability
 
 [Wiki](https://github.com/radumarias/dbos/wiki)
 
+# Credits
+
+The main idea is of [Andrei Bozântan](https://github.com/andreiBozantan/).
