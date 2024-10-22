@@ -21,4 +21,4 @@ Everything will be written in Rust to ensure performance, safety and reliability
 
 # Credits
 
-The main idea is of [Andrei Bozântan](https://github.com/andreiBozantan/).
+The original idea is of [Andrei Bozântan](https://github.com/andreiBozantan/).
