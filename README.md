@@ -4,6 +4,11 @@ This is an operating system optimized for hosting a database system, taking adva
 
 Everything will be written in Rust to ensure performance, safety and reliability.
 
+> [!WARNING]  
+> This is still in the early research phases.  
+> It's mostly ideal for experimental and learning projects.**
+
+
 # High level components
 - hardware abstraction - very thin layer
 - multitasking - handling concurrent tasks
